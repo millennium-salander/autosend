@@ -1,3 +1,3 @@
 # autosend
 
-# Send multiple emails from a CSV file in BCC mode
+#### Send multiple emails from a CSV file in BCC mode
